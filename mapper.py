@@ -1,5 +1,5 @@
 # Manisha Mandapati
-# This is an example mapper
+# This is an example mapper 
 f = open("purchases.txt","r")  # open file, read-only
 
 o = open("out01.txt", "w") # open file, write
